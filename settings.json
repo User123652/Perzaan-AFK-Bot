@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "ShieldSMP22.aternos.me",
+    "port": 43936,
     "version": "1.21.1"
   },
   "position": {
